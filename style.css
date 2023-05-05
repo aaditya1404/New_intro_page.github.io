@@ -281,19 +281,19 @@ img:hover {
   }
   .home-container{
     top: 0rem;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
     margin: auto;
     height: 1000px;
   }
   .home-img {
-    margin-top: 0;
+    margin-top: 23rem;
   }
   .home-img img{
     border-radius: 100rem;
     max-width: 25rem;
   }
   .intro{
-    margin-top: 6rem;
+    margin-top: -75rem;
     padding: 0 2rem;
   }
   div.po{
