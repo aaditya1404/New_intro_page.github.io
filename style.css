@@ -280,7 +280,7 @@ img:hover {
     font-size: 55%;
   }
   .home-container{
-    top: 14rem;
+    top: 0rem;
     flex-wrap: wrap;
     margin: auto;
     height: 1000px;
@@ -290,10 +290,10 @@ img:hover {
   }
   .home-img img{
     border-radius: 100rem;
-    max-width: 40rem;
+    max-width: 25rem;
   }
   .intro{
-    margin-top: -6rem;
+    margin-top: 6rem;
     padding: 0 2rem;
   }
   div.po{
